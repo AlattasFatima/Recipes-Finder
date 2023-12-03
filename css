@@ -37,7 +37,7 @@ label{
     margin-bottom: 3%;
     font-family: candara;
 }
-#container{
+#borderDiv{
     width: 100%;
     display: flex;
     flex-direction: row; /* not column */
@@ -47,7 +47,7 @@ label{
     max-width: max-content; 
 }
 
-#container img {
+#borderDiv img{
   width: 100%;
   max-width: 350px;
   height: 100%;
